@@ -68,6 +68,10 @@ Follow these instructions to get the project up and running on your local machin
 
 This project is licensed under the MIT License - see the [License](./LICENSE) file for details.
 
+### Contact
+
+For questions or feedback, please contact: giveawaynino143@gmail.com
+
 
 ### Acknowledgments
 
