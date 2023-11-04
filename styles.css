@@ -1,0 +1,33 @@
+QWidget {
+    background-color: black;
+    color: white;
+}
+
+QLabel {
+    color: white;
+    font-size: 16px;
+}
+
+QLineEdit {
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+QPushButton {
+    background-color: lightgray;
+    color: black;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+QPushButton:hover {
+    background-color: gray;
+    color: white;
+}
