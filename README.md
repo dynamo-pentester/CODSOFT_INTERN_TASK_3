@@ -6,6 +6,10 @@ PASSWORD GENERATOR
 
 A simple password generator application with various options for generating strong and secure passwords.
 
+# Author
+
+- dynamo-pentester
+
 ## Table of Contents
 
 - [Features](#features)
